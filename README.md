@@ -7,4 +7,4 @@ Crop Yield Prediction model using Perceptron and linear regression model.
 3. Training crop yield predicting model usiing perceptron
 4. Inputs to predict yields :- N,P,K,Rainfall,Temp.
 5. User input: N, P & K
-6. Output :- Yield (kg/hectre)
+6. Output :- Yield (kg/hectare)
